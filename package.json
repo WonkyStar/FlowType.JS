@@ -1,0 +1,6 @@
+{
+    "name": "opensoft-FlowTypeJs",
+    "version": "1.1.0",
+    "description": "Web typography at its finest: font-size and line-height based on element width.",
+    "license": "MIT"
+}
